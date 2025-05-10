@@ -32,7 +32,6 @@ AI/ML Enthusiast and a tech enthusiast! 💻✨
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/faza-qinthoro)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/fazawithai)
 
-### 🐍 Contribution Snake
 
 ![snake gif](https://fazqin.github.io/snk/only-svg/github-contribution-grid-snake-dark.svg)
 
