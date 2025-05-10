@@ -34,5 +34,6 @@ AI/ML Enthusiast and a tech enthusiast! 💻✨
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/fazqin/snk/output/github-contribution-grid-dark-snake.svg)
+![snake gif](https://fazqin.github.io/snk/only-svg/github-contribution-grid-snake-dark.svg)
+
 
