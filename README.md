@@ -6,7 +6,7 @@ I'm a Python Programmer.
 AI/ML Enthusiast and a tech enthusiast! 💻✨
 
 - 🔭 Currently working? No, im Jobless 
-- 🎓 Still Gapyear LoL 
+- 🎓 Student at Cakrawala University
 - 🤝 Looking to collaborate on projects  
 - 💬 Ask me about Data or Python 
 - 🌐 Pronouns: He/him  
