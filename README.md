@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/fGgmOVM.png" alt="My Banner" width="100%" />
 
-### 👋 About Me
+###  About Me
 
 I'm a Python Programmer.
 AI/ML Enthusiast and a tech enthusiast! 💻✨
@@ -12,7 +12,7 @@ AI/ML Enthusiast and a tech enthusiast! 💻✨
 - 🌐 Pronouns: He/him  
 - ⚡ Fun fact: I have a servant (GPT) wkwk  
 
-### 🛠️ Languages and Tools:
+###  Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
