@@ -1,6 +1,12 @@
 
-![Black Modern Gradient Programmer Presentation](https://github.com/user-attachments/assets/466cfa4a-ccae-4eac-b05e-805e7dfb815c)
+![asset bergerak](readme.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazqin/fazqin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazqin/fazqin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fazqin/fazqin/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 ###  About Me
 
 I'm a Python Programmer.
