@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/fGgmOVM.png" alt="My Banner" width="100%" />
+
+![Black Modern Gradient Programmer Presentation](https://github.com/user-attachments/assets/466cfa4a-ccae-4eac-b05e-805e7dfb815c)
 
 ###  About Me
 
@@ -34,5 +35,10 @@ AI/ML Enthusiast and a tech enthusiast! 💻✨
 
 
 ![snake gif](https://fazqin.github.io/snk/only-svg/github-contribution-grid-snake-dark.svg)
+
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fazqin&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fazqin&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazqin&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
