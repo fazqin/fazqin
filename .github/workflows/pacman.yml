@@ -19,10 +19,9 @@ jobs:
 
     steps:
       - name: generate pacman-contribution-graph.svg
-        uses: t-da-f/pacman-contribution-graph@main
+        uses: pifafu/pacman-contribution-graph@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: dark
 
 
       - name: push pacman-contribution-graph.svg to the output branch
